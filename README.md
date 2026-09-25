@@ -1,6 +1,6 @@
 # nextself-audio-ru
 
-NextSelf uygulamasının Rusça B1+ ders sesleri. Uygulama bu dosyaları tek tek indirir
+NextSelf uygulamasının Rusça B1+ ders sesleri — anahtarı 0…7 ile başlayan kayıtlar (dilin sesleri nextself-audio-ru · nextself-audio-ru-2 depolarına bölünmüştür). Uygulama bu dosyaları tek tek indirir
 (`ru/<ilk iki hex>/<anahtar>.mp3`, mono mp3); anahtar, seslendirilen metnin
 sha1 özetinin ilk 16 hanesidir.
 
